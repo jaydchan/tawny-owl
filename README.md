@@ -1,7 +1,7 @@
 Tawny-OWL
 ===========
 
-[![Build Status](https://travis-ci.org/phillord/tawny-owl.png?branch=master)](https://travis-ci.org/phillord/tawny-owl)
+[![Build Status](https://travis-ci.org/jaydchan/tawny-owl.png?branch=sio-render-fix)](https://travis-ci.org/jaydchan/tawny-owl)
 
 ## Introduction
 
